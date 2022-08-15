@@ -1,37 +1,171 @@
-## Welcome to GitHub Pages
+<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Devin Harper's Portfolio</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
 
-You can use the [editor on GitHub](https://github.com/devinharper16/DevinHarperPortfolio.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+		<!-- Wrapper -->
+			<div id="wrapper" class="fade-in">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+				<!-- Intro -->
+					<div id="intro">
+						<h1>Devin Harper's Portfolio<br />
+						</h1>
+						<p>Data Analyst | SQL | Tableau | Visualization | Excel | Remote
+						</p>
+						<ul class="actions">
+							<li><a href="#header" class="button icon solid solo fa-arrow-down scrolly">Continue</a></li>
+						</ul>
+					</div>
 
-### Markdown
+				<!-- Header -->
+					<header id="header">
+						<a href="index.html" class="logo">Devin Harper</a>
+					</header>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+				<!-- Nav -->
+					<nav id="nav">
+						<ul class="links">
+							<li class="active"><a href="index.html">Projects</a></li>
 
-```markdown
-Syntax highlighted code block
+						</ul>
+						<ul class="icons">
+							<li><a href="https://www.linkedin.com/in/devinharper16/" class="icon brands alt fa-linkedin"><span class="label">linkedin</span></a></li>
+							<!-- INSERT GITHUB LINK BELOW, REPLACE # WITH LINK -->
+							<li><a href="https://github.com/devinharper16/PortfolioProjects" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+						</ul>
+					</nav>
 
-# Header 1
-## Header 2
-### Header 3
+				<!-- Main -->
+					<div id="main">
 
-- Bulleted
-- List
+						<!-- Featured Post -->
+							<article class="post featured">
+								<header class="major">
+									<!-- REPLACE # BELOW WITH LINK TO PROJECT -->
+									<h2><a href="https://github.com/devinharper16/PortfolioProjects/blob/main/COVID%20Portfolio%20Project.sql">COVID-19 Data Exploration<br />
+									</a></h2>
+									<p>In this project, we used SQL Server to explore current global COVID-19 data. </p>
+								</header>
+								<!-- REPLACE # BELOW WITH LINK TO PROJECT -->
+								<a href="https://github.com/devinharper16/PortfolioProjects/blob/main/COVID%20Portfolio%20Project.sql" class="image main"><img src="images/covid.jpg" alt="" /></a>
+								<ul class="actions special">
+									<!-- REPLACE # BELOW WITH LINK TO PROJECT -->
+									<li><a href="https://github.com/devinharper16/PortfolioProjects/blob/main/COVID%20Portfolio%20Project.sql" class="button large">View Project</a></li>
+								</ul>
+							</article>
 
-1. Numbered
-2. List
+						<!-- Posts -->
+							<section class="posts">
+								<article>
+									<header>
+										<!-- REPLACE # BELOW WITH LINK TO PROJECT -->
+										<h2><a href="https://github.com/devinharper16/PortfolioProjects/blob/main/Property%20Data%20Cleaning.sql">Property Data Cleaning<br />
+										</a></h2>
+									</header>
+									<!-- REPLACE # BELOW WITH LINK TO PROJECT -->
+									<a href="https://github.com/devinharper16/PortfolioProjects/blob/main/Property%20Data%20Cleaning.sql" class="image fit"><img src="images/housing.jpg" alt="" /></a>
+									<p>In this project, I take raw housing data and transform it in SQL to make it usable for analysis.</p>
+									<ul class="actions special">
+										<!-- REPLACE # BELOW WITH LINK TO PROJECT -->
+										<li><a href="https://github.com/devinharper16/PortfolioProjects/blob/main/Property%20Data%20Cleaning.sql" class="button">View Project</a></li>
+									</ul>
+								</article>
 
-**Bold** and _Italic_ and `Code` text
+								<article>
+									<header>
+										<!-- REPLACE # BELOW WITH LINK TO PROJECT -->
+										<h2><a href="https://public.tableau.com/app/profile/devin.harper/viz/SeattleAirBnBFullProject_16600044950520/Dashboard1">Seattle Airbnb Pricing<br />
+										</a></h2>
+									</header>
+									<!-- REPLACE # BELOW WITH LINK TO PROJECT -->
+									<a href="https://public.tableau.com/app/profile/devin.harper/viz/SeattleAirBnBFullProject_16600044950520/Dashboard1" class="image fit"><img src="images/airbnb.png" alt="" /></a>
+									<p>In this Tableau project, I created a dashboard displaying pricing for Airbnbs in Seattle in 2016.</p>
+									<ul class="actions special">
+										<!-- REPLACE # BELOW WITH LINK TO PROJECT -->
+										<li><a href="https://public.tableau.com/app/profile/devin.harper/viz/SeattleAirBnBFullProject_16600044950520/Dashboard1" class="button">View Project</a></li>
+									</ul>
+								</article>
+								
+				
+								<article>
+									<header>
+										<h2><a href="https://public.tableau.com/app/profile/devin.harper/viz/COVIDProject_16601816732170/Dashboard1">COVID-19 Infection Rates<br />
+										</a></h2>
+									</header>
+									<a href="https://public.tableau.com/app/profile/devin.harper/viz/COVIDProject_16601816732170/Dashboard1" class="image fit"><img src="images/covid2.jpg" alt="" /></a>
+									<p>In this Tableau project, I used up-to-date data to display the current and predicted COVID-19 infection rates. </p>
+									<ul class="actions special">
+										<li><a href="https://public.tableau.com/app/profile/devin.harper/viz/COVIDProject_16601816732170/Dashboard1" class="button">View Project</a></li>
+									</ul>
+								</article>
 
-[Link](url) and ![Image](src)
-```
+								<article>
+									<header>
+										<h2><a href="https://github.com/devinharper16/PortfolioProjects/blob/main/Bike%20Sales%20Dashboard.xlsx">Bike Sales Excel Dashboard<br />
+										</a></h2>
+									</header>
+									<a href="https://github.com/devinharper16/PortfolioProjects/blob/main/Bike%20Sales%20Dashboard.xlsx" class="image fit"><img src="images/bike.jpg" alt="" /></a>
+									<p>In this Excel project, I data cleaned a bike sales spreadsheet and created Pivot tables along with a dashboard.</p>
+									<ul class="actions special">
+										<li><a href="https://github.com/devinharper16/PortfolioProjects/blob/main/Bike%20Sales%20Dashboard.xlsx" class="button">View Project</a></li>
+									</ul>
+								</article>
+							</section>
+			
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+			
+						
+						<section class="split contact">
+							<section class="alt">
+								<h3>Address</h3>
+								<p><br />
+								Kimball, MI 48074</p>
+							</section>
+							<section>
+								<h3>Phone</h3>
+								<p>(810) 858-2463</p>
+							</section>
+							<section>
+								<h3>Email</h3>
+								<p>devin.harper16@gmail.com</p>
+							</section>
+							<section>
+								<h3>Social</h3>
+								<ul class="icons alt">
+									<li><a href="https://www.linkedin.com/in/devinharper16/" class="icon brands alt fa-linkedin"><span class="label">linkedin</span></a></li>
+									<!-- INSERT GITHUB LINK BELOW, REPLACE # WITH LINK -->
+									<li><a href="https://github.com/devinharper16/PortfolioProjects" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+								</ul>
+							</section>
+						</section>
+					</footer>
 
-### Jekyll Themes
+				<!-- Copyright -->
+					<div id="copyright">
+						<ul><li>&copy; Untitled</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li></ul>
+					</div>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/devinharper16/DevinHarperPortfolio.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+			</div>
 
-### Support or Contact
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+	</body>
+</html>
